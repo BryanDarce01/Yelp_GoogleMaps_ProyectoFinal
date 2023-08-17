@@ -87,7 +87,7 @@ El proyecto se enfocará en los locales de Pizza Hut ubicados en las ciudades de
 - El propósito de este proyecto es brindar a la cadena de restaurantes Pizza Hut un análisis detallado de su presencia en las plataformas de reseñas, específicamente Yelp y Google Maps, con el objetivo de identificar áreas de mejora y desarrollar estrategias efectivas para aumentar su clasificación y reseñas positivas. El enfoque se centrará en maximizar la visibilidad y la reputación en línea de Pizza Hut para lograr un aumento significativo en el número y la calidad de las reseñas, lo que, a su vez, generará un impacto positivo en la atracción de clientes y en el retorno de inversión.
 
 
-<h2 align="center">Objetivos especficos</h2>
+<h2 align="center">Objetivos Específicos</h2>
  
  <p align="justify">  
       
