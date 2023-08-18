@@ -1,12 +1,12 @@
 <h1 align="center">DATA HUNTERS </h1>
   
 <p align="center">
-  <img src="src/Huntersb.png" alt="DataHunters" width="300">
+  <img src="src/Connectify_ne.png" alt="DataHunters" width="300">
 </p>
 
 
 <hr>
-<h1 align="center">PROYECTO GOOGLE + YELP </h1>
+<h1 align="center">PROYECTO GOOGLE MAPS + YELP </h1>
 <hr>
 
 <p align="center">
@@ -24,6 +24,14 @@ Nuestra misión es brindar soluciones a medida para cada cliente, reconociendo q
 <p align="center">
   <img src="src/Team.png" alt="Team">
 </p>
+
+<p align="justify"> 
+
+  - [Julieta Franco](http://www.linkedin.com/in/franco-julieta) - Data Analyst
+  - [Bryan Darce]() - Data Engineer
+  - [Cristian Suazo]() - Data Engineer
+  - [Gaston Re]() - Data Scientist
+  - [Oscar Tejedor]() - Data Scientist 
 <h1 align="center">Introducción</h1>
 
 <p align="justify"> 
@@ -33,7 +41,7 @@ Este análisis de datos nos permite proporcionar un análisis detallado basado e
 </p>
 
 
-<h1 align="center">Planteamiento del Problema ✍</h1>
+<h1 align="center">Planteamiento del Problema</h1>
 <p align="justify"> 
 Nuestro cliente es un emprendedor que lidera la cadena de restaurantes "Pizza Hut", presente en diversos estados de Estados Unidos. Nuestra misión es potenciar la visibilidad y el impacto de su negocio, tanto entre los comensales que disfrutan de su experiencia in situ como entre aquellos que toman decisiones basadas en las reseñas que descubren en la plataforma Yelp. Este enfoque se concentrará especialmente en las sucursales ubicadas en las ciudades de California, Florida y Nueva York.
 
@@ -158,17 +166,6 @@ master
  - [Análisis preliminar de los datos](https://docs.google.com/document/d/1y6AlfN7cYgGkfxI-AtVPM5JLwTa1ErNg08rpsgHXtPQ/edit?usp=sharing)
  - [Diccionario de datos](https://docs.google.com/spreadsheets/d/1vgPm3d63E5gACCTxwtXyW6KGq2YO-TLEh_Vjv88RuLo/edit?usp=sharing)
  - [Modelo Entidad-Relación y Gantt](https://www.canva.com/design/DAFr02-Tfe8/cd9y3Q2FTYEZy-r7Fc98_Q/edit?utm_content=DAFr02-Tfe8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-
-  <h1 align="center">Autores 👥🖋</h1>
-
-  <p align="justify"> 
-
-  - Oscar Tejedor, Data Scientist- @oscartg25
-  - Julieta Franco, Data Analyst
-  - Bryan Darce, Data Engineer- @BryanDarce01
-  - Cristian Suazo, Data Engineer
-  - Gaston Re, Data Scientist -@Gaston-Re
 
   <h1 align="center">Presentación 🎞</h1>
 
