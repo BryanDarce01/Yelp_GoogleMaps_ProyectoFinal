@@ -25,13 +25,14 @@ Nuestra misión es brindar soluciones a medida para cada cliente, reconociendo q
   <img src="src/Team.png" alt="Team">
 </p>
 
-<p align="justify"> 
+<p align="justify">
 
   - [Julieta Franco](http://www.linkedin.com/in/franco-julieta) - Data Analyst
-  - [Bryan Darce]() - Data Engineer
-  - [Cristian Suazo]() - Data Engineer
-  - [Gaston Re]() - Data Scientist
-  - [Oscar Tejedor]() - Data Scientist 
+  - [Bryan Darce](https://www.linkedin.com/in/bryan-darce/) - Data Engineer
+  - [Cristian Suazo](http://www.linkedin.com/in/cristian-suazo-dondero-88722926a) - Data Engineer
+  - [Gaston Re](https://www.linkedin.com/in/gaston-re-b9949225b/) - Data Scientist
+  - [Oscar Tejedor](https://www.linkedin.com/in/oscar-tejedorg) - Data Scientist
+
 <h1 align="center">Introducción</h1>
 
 <p align="justify"> 
@@ -92,7 +93,7 @@ El proyecto se enfocará en los locales de Pizza Hut ubicados en las ciudades de
 
 <h2 align="center">Objetivo General</h2>
   
-- El propósito de este proyecto es brindar a la cadena de restaurantes Pizza Hut un análisis detallado de su presencia en las plataformas de reseñas, específicamente Yelp y Google Maps, con el objetivo de identificar áreas de mejora y desarrollar estrategias efectivas para aumentar su clasificación y reseñas positivas. El enfoque se centrará en maximizar la visibilidad y la reputación en línea de Pizza Hut para lograr un aumento significativo en el número y la calidad de las reseñas, lo que, a su vez, generará un impacto positivo en la atracción de clientes y en el retorno de inversión.
+- Analizar a la cadena de restaurantes Pizza Hut para obtener un resumen de su presencia en las plataformas de reseñas, específicamente Yelp y Google Maps, con el objetivo de identificar áreas de mejora y desarrollar estrategias efectivas para aumentar su clasificación y reseñas positivas. El enfoque se centrará en maximizar la visibilidad y la reputación en línea de Pizza Hut para lograr un aumento significativo en el número y la calidad de las reseñas, lo que, a su vez, generará un impacto positivo en la atracción de clientes y en el retorno de inversión.
 
 
 <h2 align="center">Objetivos Específicos</h2>
@@ -124,9 +125,6 @@ El proyecto se enfocará en los locales de Pizza Hut ubicados en las ciudades de
 	 - A partir de las recomendaciones brindadas, se buscará que el rating del negocio aumente.
 
 
-<h1 align="center">Estos KPI's se medirán
-cada</h1>
-
 <h1 align="center">¿Cómo lo hicimos? 🤔</h1>
 
 1. Extracción y transformación de datos con Python usando las librerías Pandas y Numpy principalmente.
@@ -135,7 +133,7 @@ cada</h1>
 
 3. Análisis de datos en la nube con BigQuery
 
-4. Modelos de Machine Learning .......................................
+4. Modelo de Machine Learning
 
 5. Visualización y reportes con Power Bi
 
@@ -153,13 +151,19 @@ master
 
 📘 **Visual Studio Code**: Editor de código fuente que permite el desarrollo de las instrucciones para la ejecución de todo el proyecto.
 
-💻 **Looker Studio**: Herramienta de Google Cloud Platform que permite convertir datos en informes y paneles claros, totalmente personalizables, fáciles de consultar y compartir, lo que permite tomar decisiones basadas en datos de manera más efectiva.
+💻 **Power BI**: Power BI es un servicio de análisis de datos de Microsoft orientado a proporcionar visualizaciones interactivas y capacidades de inteligencia empresarial con una interfaz simple.
 
-  ⚡**Hevo**: plataforma de canalización de datos sin mantenimiento que te ayuda a configurar canalizaciones de datos en minutos. Sincroniza automáticamente los datos de todas tus fuentes con el almacén, sin necesidad de mantenimiento..
+  ⚡**Hevo**: plataforma de canalización de datos sin mantenimiento que te ayuda a configurar canalizaciones de datos en minutos. Sincroniza automáticamente los datos de todas tus fuentes con el almacén, sin necesidad de mantenimiento.
+
+🔰**Bert**: Red neuronal de código abierto que ha sido entrenada para procesar el lenguaje natural.
   </p>
 
 
 <h1 align="center">Pipeline 📋</h1>
+<p align="center">
+  <img src="src/Pipe.png" alt="Team">
+</p>
+
 
 ## Documentos adicionales
 
